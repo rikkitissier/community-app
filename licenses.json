@@ -1,0 +1,298 @@
+{
+    "apollo-cache-inmemory@1.5.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollographql/apollo-client",
+        "licenseUrl": "https://github.com/apollographql/apollo-client/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "apollo-client@2.5.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollographql/apollo-client",
+        "licenseUrl": "https://github.com/apollographql/apollo-client/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "apollo-link-error@1.1.10": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollographql/apollo-link",
+        "licenseUrl": "https://github.com/apollographql/apollo-link/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "apollo-link-http@1.5.14": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollographql/apollo-link",
+        "licenseUrl": "https://github.com/apollographql/apollo-link/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "apollo-link-logger@1.2.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/blackxored/apollo-link-logger",
+        "licenseUrl": "https://github.com/blackxored/apollo-link-logger/raw/master/LICENSE.md",
+        "parents": "invision-community"
+    },
+    "apollo-link@1.2.11": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollographql/apollo-link",
+        "licenseUrl": "https://github.com/apollographql/apollo-link/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "buffer@5.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/feross/buffer",
+        "licenseUrl": "https://github.com/feross/buffer/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "expo-image-manipulator@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "expo-image-picker@5.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "expo-linear-gradient@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "expo-permissions@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "expo-secure-store@5.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "expo-web-browser@5.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "expo@33.0.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "invision-community"
+    },
+    "fuse.js@3.4.4": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/krisk/Fuse",
+        "licenseUrl": "https://github.com/krisk/Fuse/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "graphql-tag@2.10.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollostack/graphql-tag",
+        "licenseUrl": "https://github.com/apollostack/graphql-tag/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "graphql@14.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/graphql/graphql-js",
+        "licenseUrl": "https://github.com/graphql/graphql-js/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "moment@2.24.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/moment/moment",
+        "licenseUrl": "https://github.com/moment/moment/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "native-base@2.12.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/GeekyAnts/NativeBase",
+        "licenseUrl": "https://github.com/GeekyAnts/NativeBase/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "polished@3.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/styled-components/polished",
+        "licenseUrl": "https://github.com/styled-components/polished/raw/master/LICENSE.md",
+        "parents": "invision-community"
+    },
+    "query-string@6.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/sindresorhus/query-string",
+        "licenseUrl": "https://github.com/sindresorhus/query-string/raw/master/license",
+        "parents": "invision-community"
+    },
+    "quill@1.3.6": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/quilljs/quill",
+        "licenseUrl": "https://github.com/quilljs/quill/raw/master/LICENSE",
+        "parents": "invision-community-app-editor"
+    },
+    "react-apollo@2.5.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/apollographql/react-apollo",
+        "licenseUrl": "https://github.com/apollographql/react-apollo/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-dom@16.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-dom@16.8.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "invision-community-app-editor"
+    },
+    "react-native-actionsheet@2.4.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/beefe/react-native-actionsheet",
+        "licenseUrl": "https://github.com/beefe/react-native-actionsheet/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-animatable@1.3.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/oblador/react-native-animatable",
+        "licenseUrl": "https://github.com/oblador/react-native-animatable/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-easy-toast@1.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/crazycodeboy/react-native-easy-toast",
+        "licenseUrl": "https://github.com/crazycodeboy/react-native-easy-toast/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-fade-in-image@1.5.0": {
+        "licenses": "MIT",
+        "parents": "invision-community"
+    },
+    "react-native-image-zoom-viewer@2.2.25": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ascoders/react-native-image-viewer",
+        "licenseUrl": "https://github.com/ascoders/react-native-image-viewer/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-keyboard-accessory@0.1.9": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+        "licenseUrl": "https://github.com/ardaogulcan/react-native-keyboard-accessory/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-keyboard-aware-scroll-view@0.8.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/APSL/react-native-keyboard-aware-scroll-view",
+        "licenseUrl": "https://github.com/APSL/react-native-keyboard-aware-scroll-view/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-modal@10.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-modal",
+        "licenseUrl": "https://github.com/react-native-community/react-native-modal/raw/master/LICENSE.md",
+        "parents": "invision-community"
+    },
+    "react-native-remote-svg@1.4.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/seekshiva/react-native-remote-svg",
+        "licenseUrl": "https://github.com/seekshiva/react-native-remote-svg/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-render-html@4.1.2": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/archriss/react-native-render-html",
+        "licenseUrl": "https://github.com/archriss/react-native-render-html/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-root-toast@3.1.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/magicismight/react-native-root-toast",
+        "licenseUrl": "https://github.com/magicismight/react-native-root-toast/raw/master/LICENSE.txt",
+        "parents": "invision-community"
+    },
+    "react-native-svg@9.5.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-svg",
+        "licenseUrl": "https://github.com/react-native-community/react-native-svg/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native-swipeable@0.6.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jshanson7/react-native-swipeable",
+        "licenseUrl": "https://github.com/jshanson7/react-native-swipeable/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-native@0.59.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react-native",
+        "licenseUrl": "https://github.com/facebook/react-native/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-navigation@3.11.0": {
+        "licenses": "BSD-2-Clause",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react-redux@6.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/reduxjs/react-redux",
+        "licenseUrl": "https://github.com/reduxjs/react-redux/raw/master/LICENSE.md",
+        "parents": "invision-community"
+    },
+    "react@16.8.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "react@16.8.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "invision-community-app-editor"
+    },
+    "redux-logger@3.0.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/theaqua/redux-logger",
+        "licenseUrl": "https://github.com/theaqua/redux-logger/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "redux-thunk@2.3.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/reduxjs/redux-thunk",
+        "licenseUrl": "https://github.com/reduxjs/redux-thunk/raw/master/LICENSE.md",
+        "parents": "invision-community"
+    },
+    "redux@4.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/reduxjs/redux",
+        "licenseUrl": "https://github.com/reduxjs/redux/raw/master/LICENSE.md",
+        "parents": "invision-community"
+    },
+    "sentry-expo@1.13.0": {
+        "licenses": "MIT",
+        "parents": "invision-community"
+    },
+    "short-number@1.0.7": {
+        "licenses": "MIT",
+        "repository": "https://github.com/cfj/short-number",
+        "licenseUrl": "https://github.com/cfj/short-number/raw/master/LICENSE",
+        "parents": "invision-community"
+    },
+    "underscore@1.9.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/jashkenas/underscore",
+        "licenseUrl": "https://github.com/jashkenas/underscore/raw/master/LICENSE",
+        "parents": "invision-community-app-editor"
+    },
+    "validator@10.11.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/chriso/validator.js",
+        "licenseUrl": "https://github.com/chriso/validator.js/raw/master/LICENSE",
+        "parents": "invision-community"
+    }
+}

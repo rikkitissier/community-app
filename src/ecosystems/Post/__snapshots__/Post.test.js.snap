@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post component renders with data 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  style={
+    Object {
+      "marginBottom": 7,
+    }
+  }
+  underlayColor="black"
+>
+  <ShadowedArea
+    style={
+      Object {
+        "padding": 16,
+        "paddingBottom": 0,
+      }
+    }
+  >
+    <Component
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "flexDirection": "row",
+        }
+      }
+      testId="postAuthor"
+    >
+      <TouchableOpacity
+        activeOpacity={0.2}
+        onPress={[Function]}
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "flex": 1,
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Component
+          style={
+            Object {
+              "alignItems": "flex-start",
+              "flex": 1,
+              "flexDirection": "row",
+            }
+          }
+        >
+          <UserPhoto
+            online={true}
+            size={36}
+            url="https://via.placeholder.com/150"
+          />
+          <Component
+            style={
+              Object {
+                "flex": 1,
+                "flexDirection": "column",
+                "justifyContent": "center",
+                "marginLeft": 9,
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              style={
+                Object {
+                  "color": "#171717",
+                  "fontSize": 17,
+                  "fontWeight": "600",
+                }
+              }
+            >
+              testadmin
+            </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              style={
+                Object {
+                  "color": "#8F8F8F",
+                  "fontSize": 14,
+                }
+              }
+            >
+              1 year ago
+            </Text>
+          </Component>
+        </Component>
+      </TouchableOpacity>
+      <TouchableOpacity
+        activeOpacity={0.2}
+        onPress={[Function]}
+        style={
+          Object {
+            "alignSelf": "flex-start",
+          }
+        }
+      >
+        <Image
+          resizeMode="contain"
+          source={1}
+          style={
+            Object {
+              "height": 24,
+              "opacity": 0.5,
+              "width": 24,
+            }
+          }
+        />
+      </TouchableOpacity>
+    </Component>
+    <Component
+      style={
+        Object {
+          "marginBottom": 16,
+          "marginTop": 16,
+        }
+      }
+    >
+      <RichTextContent>
+        &lt;p&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/p&gt;
+      </RichTextContent>
+      <withAnimatable(Component)
+        delay={0}
+        direction="normal"
+        iterationCount={1}
+        iterationDelay={0}
+        onAnimationBegin={[Function]}
+        onAnimationEnd={[Function]}
+        onTransitionBegin={[Function]}
+        onTransitionEnd={[Function]}
+        useNativeDriver={false}
+      >
+        <Component
+          style={
+            Array [
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "justifyContent": "flex-end",
+                "marginTop": 15,
+              },
+            ]
+          }
+          testId="reactionList"
+        >
+          <Reaction
+            count={1}
+            id={3}
+            image="https://via.placeholder.com/40"
+            key="3"
+            onPress={[Function]}
+            style={
+              Object {
+                "marginLeft": 10,
+              }
+            }
+          />
+          <Reaction
+            count={2}
+            id={4}
+            image="https://via.placeholder.com/40"
+            key="4"
+            onPress={[Function]}
+            style={
+              Object {
+                "marginLeft": 10,
+              }
+            }
+          />
+          <Reaction
+            count={3}
+            id={5}
+            image="https://via.placeholder.com/40"
+            key="5"
+            onPress={[Function]}
+            style={
+              Object {
+                "marginLeft": 10,
+              }
+            }
+          />
+        </Component>
+      </withAnimatable(Component)>
+    </Component>
+    <PostControls>
+      <PostControl
+        image="https://via.placeholder.com/40"
+        label="GivenReaction"
+        onLongPress={[Function]}
+        onPress={[Function]}
+        selected={true}
+        testId="repButton"
+      />
+    </PostControls>
+    <ActionSheet
+      cancelButtonIndex={0}
+      onPress={[Function]}
+      options={
+        Array [
+          "cancel",
+          "share",
+          "report",
+        ]
+      }
+      title="post_options"
+    />
+    <ReactionModal
+      closeModal={[Function]}
+      onReactionPress={[Function]}
+      reactions={
+        Array [
+          Object {
+            "id": 4,
+            "image": "https://via.placeholder.com/40",
+            "name": "Reaction 2",
+          },
+          Object {
+            "id": 5,
+            "image": "https://via.placeholder.com/40",
+            "name": "Reaction 3",
+          },
+        ]
+      }
+      visible={false}
+    />
+  </ShadowedArea>
+</TouchableHighlight>
+`;

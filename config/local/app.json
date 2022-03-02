@@ -1,0 +1,59 @@
+{
+	"expo": {
+		"sdkVersion": "38.0.0",
+		"orientation": "portrait",
+		"privacy": "unlisted",
+		"hooks": {},
+		"assetBundlePatterns": ["web/dist/index.html", "resources/splash.png"],
+		"platforms": ["android", "ios"],
+		"extra": {
+			"multi": false,
+			"oauth_client_id": "",
+			"api_url": "",
+			"refresh_token_advance": 300000,
+			"notification_timeout": 10000,
+			"message_prefix": "__IPS__",
+			"per_page": 20,
+			"remoteServicesUrl": "",
+			"privacyPolicyUrl": "",
+			"max_image_dim": 1000,
+			"sentryDsn": ""
+		},
+		"name": "Invision Community",
+		"slug": "invision-community",
+		"version": "0.1.17",
+		"description": "",
+		"scheme": "invision-community",
+		"notification": {
+			"iosDisplayInForeground": true
+		},
+		"ios": {
+			"bundleIdentifier": "com.invisioncommunity.app",
+			"supportsTablet": true,
+			"infoPlist": {
+				"NSCameraUsageDescription": "This app uses the camera to allow attaching photos to comments.",
+				"NSPhotoLibraryUsageDescription": "This app accesses your Photo Library to allow attaching photos to comments."
+			}
+		},
+		"android": {
+			"googleServicesFile": "./config/ips/assets/google-services.json",
+			"versionCode": 117,
+			"package": "com.invisioncommunity.app",
+			"permissions": [
+				"ACCESS_COARSE_LOCATION",
+				"ACCESS_FINE_LOCATION",
+				"CAMERA",
+				"MANAGE_DOCUMENTS",
+				"READ_EXTERNAL_STORAGE",
+				"WRITE_EXTERNAL_STORAGE",
+				"com.google.android.c2dm.permission.RECEIVE"
+			]
+		},
+		"splash": {
+			"image": "./resources/splash.png",
+			"resizeMode": "cover"
+		},
+		"icon": "./resources/icon.png",
+		"primaryColor": "#3370AA"
+	}
+}

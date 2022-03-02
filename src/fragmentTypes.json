@@ -1,0 +1,30 @@
+{
+	"__schema": {
+		"types": [
+			{
+				"kind": "UNION",
+				"name": "core_Content",
+				"possibleTypes": [
+					{
+						"name": "core_Comment"
+					},
+					{
+						"name": "core_Item"
+					}
+				]
+			},
+			{
+				"kind": "UNION",
+				"name": "core_UploadAttachment",
+				"possibleTypes": [
+					{
+						"name": "core_UploadProgress"
+					},
+					{
+						"name": "core_Attachment"
+					}
+				]
+			}
+		]
+	}
+}

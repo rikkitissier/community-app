@@ -1,0 +1,47 @@
+[
+	{
+		"id": "followed",
+		"name": "Followed Content & Members",
+		"description": "Notifications about new content in areas and items you follow, or new content by members you follow"
+	},
+	{
+		"id": "my-content",
+		"name": "Mentions & My Content",
+		"description": "Notifications when you're mentioned in content, or members interact with your content"
+	},
+	{
+		"id": "personal-messages",
+		"name": "Personal Messages",
+		"description": "Notifications about new Personal Messages"
+	},
+	{
+		"id": "clubs",
+		"name": "Club Invitations & Management",
+		"description": "Notifications for club invitations, or join requests (if you are a club leader)"
+	},
+	{
+		"id": "your-profile",
+		"name": "Your Profile",
+		"description": "Notifications about posts on your profile, replies to your status updates and when you get new followers"
+	},
+	{
+		"id": "moderation",
+		"name": "Moderation",
+		"description": "Notifications about moderation reports and content, if you are a moderator"
+	},
+	{
+		"id": "files",
+		"name": "File Updates",
+		"description": "Notifications about file updates in Downloads areas"
+	},
+	{
+		"id": "events",
+		"name": "Events",
+		"description": "Notifications for event reminders"
+	},
+	{
+		"id": "other",
+		"name": "Other",
+		"description": "Other notifications not included in the above categories"
+	}
+]

@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`highlightTerms utility returns correct structure for INVALID search term 1`] = `
+<View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="0"
+  >
+    Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque mattis penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  </Text>
+</View>
+`;
+
+exports[`highlightTerms utility returns correct structure for multiple VALID search term 1`] = `
+<View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="0"
+  >
+    Cras
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="1"
+  >
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="2"
+    style={
+      Object {
+        "backgroundColor": "red",
+      }
+    }
+  >
+     
+    mattis
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="3"
+  >
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="4"
+  >
+    consectetur purus sit amet fermentum. Cum sociis natoque
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="5"
+  >
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="6"
+    style={
+      Object {
+        "backgroundColor": "red",
+      }
+    }
+  >
+     
+    mattis
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="7"
+  >
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="8"
+  >
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  </Text>
+</View>
+`;
+
+exports[`highlightTerms utility returns correct structure for single VALID search term 1`] = `
+<View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="0"
+  >
+    Cras mattis consectetur
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="1"
+  >
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="2"
+    style={
+      Object {
+        "backgroundColor": "red",
+      }
+    }
+  >
+     
+    purus
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="3"
+  >
+     
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    key="4"
+  >
+    sit amet fermentum. Cum sociis natoque mattis penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  </Text>
+</View>
+`;
